@@ -1,6 +1,12 @@
 # dumpster-fire
 A programming language designed from the ground up to make developers lose all semblance of sanity.
 
+![Logo](dumpster_fire.png)
+
+## Implementation Ideas
+- Create LLVM front-end.
+- Create a lexer/transpiler to generate C code.
+
 ## Ideas
 
 - No include files, you have to copy and paste the contents of the library into every file
